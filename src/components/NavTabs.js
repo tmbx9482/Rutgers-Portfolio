@@ -9,7 +9,7 @@ function NavTabs() {
 
     return (
         <nav className="navbar navbar-expand-lg border-bottom border-light">
-            <h1><span className="navbar-brand mb-3 ml-3">Brandon's Professional Profile</span></h1>
+            <h1><span className="navbar-brand mb-3 ml-3">Troy Berentsen Masterwork</span></h1>
             <div className="navbar-collapse" id="navbarSupportedContent">
                 <ul className="nav navbar-nav nav-flex-icons ml-auto">
                     <li className="nav-item">

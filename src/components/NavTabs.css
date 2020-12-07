@@ -2,18 +2,33 @@ nav .navbar {
     background-color: black;
 }
 
-.navbar h1{
+.navbar h1 {
     font-family: 'Trebuchet MS' !important;
     font-weight: bold;
     margin: 20 px;
     text-align: center;
-    background: blue;
-    color: #ffffff;
+    background: linear-gradient(-45deg, #ffffff, #d60808, #000000, #e70c0c);
+	background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
     font-size: 40px;
+   
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 .navbar-brand{
-    color: #ffffff !important;
+    color: #fafafa !important;
 }
 
 .navbar-brand {

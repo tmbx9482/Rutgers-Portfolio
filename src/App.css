@@ -1,14 +1,58 @@
 body {
   margin: 0;
-  background-image: url(https://wallpapercave.com/wp/wp2237401.jpg);
+  background-image: url(https://sites.google.com/site/johnkohlheppportfolio/_/rsrc/1472783206973/fun/Background-Recovered2.jpg);
   background-size: contain;
+  background-repeat: round;
+}
+
+a {
+  color:whitesmoke;
+}
+
+.card-body
+{
+  background: linear-gradient(-45deg,  #d60808, #000000, #e70c0c);
+	background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.col-sm-8 {
+
+  background-color: #000000;
+  color: white;
+  
+}
+
+.col-sm-4{
+  background-color: red;
 }
 
 img {
   float: left;
   margin-right: 10px;
   width: 250px;
+  padding: .25rem;
+  background-color: red;
+  border-radius: .25rem;
+  max-width: 100%;
+  height: auto;
 }
+
+
 .social-media {
   float: left;
   margin-right: 10px;

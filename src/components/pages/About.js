@@ -7,7 +7,7 @@ function About() {
             <div className="col">
                 <div className="card">
                     <div className="card-body">
-                        <h1 className="card-title">Troy Berentsen</h1>
+                        <h1 className="card-title" style={{ color: 'whitesmoke' }}>Troy Berentsen</h1>
                     </div>
                     <div className="row p-3">
                         <div className="col-sm-8">
@@ -47,7 +47,7 @@ function About() {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
 
     );
 }

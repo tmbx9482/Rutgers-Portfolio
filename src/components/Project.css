@@ -1,11 +1,18 @@
 h5 {
     text-align: center;
+    color: whitesmoke;
 }
 
 p {
     text-align: center;
+    color: whitesmoke;
 }
 
 a {
     justify-content: center;
+}
+
+h4
+{
+    color: whitesmoke; 
 }
