@@ -26,11 +26,11 @@ function About() {
                                 Flex Bootcamp working on projects and coding. After school my desired role I am gearing
                                 towards is “Product Manager”, to be the front-line of when products launch and going
                                 behind the scenes as a strategist is my dream goal. Moreover, understanding the core
-                                values of the coding fundamentals is key towards my successes in this program.</p> <br>
-                                <p> Afterwards, I want to dive into “Application Development Manager” to understand both
-                                sides of the spectrum of computers and business then have the end goal as a Web
+                                values of the coding fundamentals is key towards my successes in this program.</p>
+                            <p> Afterwards, I want to dive into “Application Development Manager” to understand both
+                            sides of the spectrum of computers and business then have the end goal as a Web
                                 Producer.</p>
-                            </br>
+
                         </div>
 
                         <div className="col-sm-4">

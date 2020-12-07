@@ -11,7 +11,7 @@ function Portfolio() {
                         <div class="card-body">
                             <h2 class="card-title">Bootcamp Projects</h2>
                             <h5>*Whatever got you to your current level of succes isn't good enough to keep you there.*</h5>
-                            <br></br>
+
 
                             <Project
                                 imageSource="assets/imgs/Note.jpg" height="150" width="250"
